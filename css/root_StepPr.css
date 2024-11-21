@@ -1,0 +1,48 @@
+:root {
+  /* Generals colors */
+  --white: #fff;
+  --black: #000;
+  --trans: rgba(0, 0, 0, 0);
+
+    /* Gray colors */
+    --gray--01: #f8fcfe; /* S1: ul-bg-color */
+    --gray--02: #f2f2f2;
+    --gray--03: #f2f4f5;
+    --gray--04: #e9edef; /* S3: background-color */
+    --gray--05: #edefef; /* S1: ul-border 1px solid */
+    --gray--06: #dadada; /* S3: ul-border 1px solid */
+    --gray--07: #d8d8d8; /* S2: text-description */
+    --gray--08: #ffffffcc;
+    --gray--09: #d4d4d4; /* HEADER: Home >>> text */
+    --gray--10: #bbbbbb; /* S5: text >>> user__qoutes, user__speciality, rectangel-arrow */
+    --gray--11: #aeaeae;  /* FOOTER >>> text-color */
+    --gray--12: #ffffff99; /* HEADER: #ffffff99; rgba(94, 93, 88); 60% */  
+    --gray--13: #878787;  
+    --gray--14: #8a8a8a; /* S3 >>> text */
+    --gray--15: #717171; /* S1, S3, S4: ul-text */
+    --gray--16: #777777; /* S1, S4: text-regular */
+    --gray--17: rgba(94, 93, 88); /*HEADER: #ffffff99; rgba(94, 93, 88); 60% */  
+    --gray--18: #4e4e4e; /* h2 >>> SECTION-TITLE */
+    --gray--19: #5e5d5899; /* the same --gray--12 */
+    --gray--20: #363b3e;
+    
+    --green-d1: #203e38; /* S4: background-color >>> data-text */
+    --green-d2: #22353f; /* FOOTER >>> background */
+    --green-d3: #1c2a33; /* HEADER: Options >>> blocks */
+
+    --black-d1: #000000a3;  
+
+    --green-01: #18cfab; /* BRAND-green-color general */
+    --green-02: #1fdab5; /* S5 >>> avar border */
+    --green-03: #1fdab520; /* S5 >>> avar border >>> opacity 0.2 */
+    --green-04: #18cfab60; /* S5 >>> Active Carousel */
+    --blue-001: #14b9d5;
+    --blue-002: #00cbf6; /* BRAND-blue-color general */
+    --blue-003: #2196f3; /* S5 >>> Toggel Switch */
+
+    --red---01: #f30707;
+    --red---02: #fe1010;
+    --red---03: #f51717;
+
+
+}

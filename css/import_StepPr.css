@@ -1,0 +1,9 @@
+@import "./reset.css";
+
+@import "./root_StepPr.css";
+
+@import "./style_StepPr.css";
+@import "./style_s5_Toggel-switch.css";
+@import "./style_s3_loader.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
